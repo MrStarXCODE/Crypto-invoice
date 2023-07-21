@@ -31,7 +31,7 @@ This program is used to create a cryptocurrency checkout using the NOWPayments A
 - Install the required Python packages using pip:
 
 ```bash
-pip install requests python-dotenv pytz
+pip install requests python-dotenv
 ```
 
 - Create a file named `.env` in the project root directory.
@@ -49,7 +49,7 @@ Replace `your_api_key` with the actual API Key you obtained from NOWPayments.
 - Run the program using Python:
 
 ```bash
-python main.py
+python crypto_invoice.py
 ```
 
 - When prompted, input the product title and price.
