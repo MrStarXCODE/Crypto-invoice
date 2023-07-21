@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import os
 # -------------------------------------------------------------------------------------------------
 # Title: Crypto Checkout Program Using NOWPayments API
-# Author: $Kek
+# Author: $Kek (MrStarXCODE)
 # Date (IST): 21-07-2023
 # -------------------------------------------------------------------------------------------------
 # This program is used to create a cryptocurrency checkout using the NOWPayments API. The objective
