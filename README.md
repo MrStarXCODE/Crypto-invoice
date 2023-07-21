@@ -33,7 +33,7 @@ pip install requests python-dotenv pytz
 - Paste your API Key into the `.env` file in the following format:
 
 ```bash
-NOWPAYMENTS_API_KEY=your_api_key
+NOW_API=your_api_key
 ```
 
 Replace `your_api_key` with the actual API Key you obtained from NOWPayments.
@@ -51,5 +51,14 @@ python main.py
 - The program will then generate a checkout and return a URL for this checkout. You can use this URL to view and complete the checkout process.
 
 ---
+# -------------------------------------------------------------------------------------------------
+# Title: Crypto Checkout Program Using NOWPayments API
+# Author: @MrStarBoy
+# Date (IST): 21-07-2023
+# -------------------------------------------------------------------------------------------------
+# This program is used to create a cryptocurrency checkout using the NOWPayments API. The objective
+# of this program is to get the checkout URL after the checkout is successfully created.
+# -------------------------------------------------------------------------------------------------
 
 That's it! If you have any issues, please submit an issue on this GitHub repository.
+
