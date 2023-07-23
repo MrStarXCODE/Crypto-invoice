@@ -57,4 +57,6 @@ python crypto_invoice.py
 
 
 That's it! If you have any issues, please submit an issue on this GitHub repository.
+## License
 
+This project is for personal use. Please do not distribute or use this code for commercial purposes without consent.
